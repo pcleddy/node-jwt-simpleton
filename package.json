@@ -1,0 +1,27 @@
+{
+  "name": "jwt-simpleton",
+  "version": "0.0.2",
+  "description": "Very simple node module for the purpose of teaching basic JWT ideas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pcleddy/node-jwt-simpleton.git"
+  },
+  "keywords": [
+    "jwt",
+    "node",
+    "simple"
+  ],
+  "author": "Paul Leddy <pcleddy@gmail.com> (http://cloudautomat.net)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/pcleddy/node-jwt-simpleton/issues"
+  },
+  "homepage": "https://github.com/pcleddy/node-jwt-simpleton#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
